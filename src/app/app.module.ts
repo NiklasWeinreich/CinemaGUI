@@ -8,8 +8,6 @@ import { NavbarComponent } from './Sharepage/Navbar/navbar.component';
 import { FooterComponent } from './Sharepage/Footer/footer.component';
 
 
-
-
 @NgModule({
   declarations: [
     AppComponent,
